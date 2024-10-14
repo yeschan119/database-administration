@@ -1,9 +1,9 @@
 # purpose
     + Database Realtime Mornitoring & Administration Project
 # 👨‍👦member
-    + Kane(R&D)
++ Kane(R&D)
 # Dataframe, Language, Platform, Server ..
-    + .Net, Angular, AWS RDS, Mysql
++ .Net, Angular, AWS RDS, Mysql
 # milestone
 ## week 1
     + organize needed features for the project
